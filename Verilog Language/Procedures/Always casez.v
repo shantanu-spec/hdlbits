@@ -8,7 +8,7 @@ module top_module (
           8'b00000000 : pos = 0;
           8'bzzzzzzz1 : pos = 0;
           8'bzzzzzz1z : pos = 1;
-	      8'bzzzzz1zz : pos = 2;
+	  8'bzzzzz1zz : pos = 2;
           8'bzzzz1zzz : pos = 3;
           8'bzzz1zzzz : pos = 4;
           8'bzz1zzzzz : pos = 5;
